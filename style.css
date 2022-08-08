@@ -84,10 +84,9 @@ img{
     background-color: #a9a9a9;
 }
 .right-content img{
-    height: 200px;
+    height: 250px;
     width: 200px; 
     border-radius: 50%;
-    filter: grayscale(1);
     display: block; 
     margin-left: auto;
     margin-right: auto;
@@ -280,7 +279,7 @@ footer{
         margin: auto;
     }
     .newsletter, .topics, .search{
-        margin-top: 3%;
+        margin-top: 5%;
     }
     .read-more-btn{
         float: left;
